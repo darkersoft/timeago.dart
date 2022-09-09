@@ -31,6 +31,7 @@ export 'package:timeago/src/messages/nb_no_messages.dart';
 export 'package:timeago/src/messages/nl_messages.dart';
 export 'package:timeago/src/messages/nn_no_messages.dart';
 export 'package:timeago/src/messages/pl_messages.dart';
+export 'package:timeago/src/messages/pt_messages.dart';
 export 'package:timeago/src/messages/pt_br_messages.dart';
 export 'package:timeago/src/messages/ro_messages.dart';
 export 'package:timeago/src/messages/ru_messages.dart';
